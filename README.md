@@ -1,5 +1,6 @@
 # Hadoop_hardening
 This script is designed to automate the hardening of a Hadoop environment by checking compliance with best security practices and CIS benchmarks. It ensures your Hadoop cluster is configured securely to protect critical data and mitigate potential security risks.
+
 Features
 Service Verification: Confirms Hadoop services (NameNode, DataNode, ResourceManager, NodeManager, JobHistoryServer) are running.
 Secure Ports and Protocols: Verifies secure configurations for ports and protocols.
@@ -37,5 +38,3 @@ Modify any checks as per your specific security requirements.
 Prerequisites
 Hadoop environment set up with configuration files located in /etc/hadoop/conf.
 Proper access permissions to check and modify Hadoop configuration files and directories.
-Contributions
-Contributions are welcome! If you find any issues or have suggestions for improvements, please create an issue or submit a pull request.
