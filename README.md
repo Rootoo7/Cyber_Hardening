@@ -6,7 +6,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/hadoop-hardening-script.git
+git clone https://github.com/yourusername/hadoop-hardening-script.git](https://github.com/Rootoo7/Cyber_Hardening.git
 cd hadoop-hardening-script
 Make the Script Executable:
 
