@@ -25,5 +25,6 @@ Update paths, filenames, and configuration values (e.g., <your-namenode>, <your-
 Modify any checks as per your specific security requirements.
 
 **Prerequisites**
+
 Hadoop environment set up with configuration files located in /etc/hadoop/conf.
 Proper access permissions to check and modify Hadoop configuration files and directories.
